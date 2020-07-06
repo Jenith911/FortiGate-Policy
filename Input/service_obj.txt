@@ -1,0 +1,73 @@
+    edit "TCP/55183"
+        set tcp-portrange 55183
+    next
+    edit "TCP/55498"
+        set tcp-portrange 55498
+    next
+    edit "TCP/55787"
+        set tcp-portrange 55787
+    next
+    edit "TCP/55830"
+    next
+    edit "TCP/56007"
+        set tcp-portrange 56007
+    next
+    edit "TCP/58282-58286"
+        set tcp-portrange 58282-58286
+    next
+    edit "TCP/53828"
+        set tcp-portrange 53828
+    next
+    edit "TCP/48002-48003"
+        set tcp-portrange 48002-48003
+    next
+    edit "TCP/1443"
+        set tcp-portrange 1443
+    next
+    edit "TCP/4718"
+        set tcp-portrange 4718
+    next
+    edit "TCP/4717"
+        set tcp-portrange 4717
+    next
+    edit "TCP/15000"
+        set tcp-portrange 15000
+    next
+    edit "TCP/8015"
+        set tcp-portrange 8015
+    next
+    edit "TCP/7082"
+        set tcp-portrange 7082
+    next
+    edit "TCP/9573"
+        set tcp-portrange 9573
+    next
+    edit "UDP/8888"
+        set udp-portrange 8888
+    next
+    edit "TCP/8015-8017"
+        set tcp-portrange 8015-8017
+    next
+    edit "tcp/56710"
+        set tcp-portrange 56710
+    next
+    edit "tcp/59809"
+        set tcp-portrange 59809
+    next
+    edit "tcp/59963"
+        set tcp-portrange 59963
+    next
+    edit "tcp/60031"
+        set tcp-portrange 60031
+    next
+    edit "udp/55598"
+        set udp-portrange 55598
+    next
+    edit "udp/57472"
+        set udp-portrange 57472
+    next
+    edit "TCP/50052"
+        set tcp-portrange 50052
+    next
+
+end
